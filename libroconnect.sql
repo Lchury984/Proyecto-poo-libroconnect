@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 4.9.10
--- https://www.phpmyadmin.net/
---
--- Servidor: localhost
--- Tiempo de generación: 04-12-2022 a las 21:15:15
--- Versión del servidor: 5.7.21-log
--- Versión de PHP: 5.6.31
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -19,7 +12,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Base de datos: `ilib`
+-- Base de datos: `libroconnect`
 --
 
 -- --------------------------------------------------------
